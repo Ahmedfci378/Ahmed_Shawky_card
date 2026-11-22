@@ -8,7 +8,7 @@
  * Social fields: full URLs starting with https://
  */
 const card = {
-  slug: "ahmed-shawky",       // becomes the URL: /ahmed-shawky
+  slug: "ahmed-mohamed",       // becomes the URL: /ahmed-mohamed
   locale: "en",                // "ar" | "en"
 
   // Identity
@@ -17,14 +17,14 @@ const card = {
   lastName: "Shawky",
   jobTitle: "CKD _ Manufacturing Operations MGR",
   company: "Kaiyi Motors Egypt",
-  profileImage: "/images/profile.jpeg",          // "/cards/ahmed-shawky/avatar.webp" (portrait ~4:5, 400px+). null = initials
+  profileImage: "/images/profile.jpeg",          // "/cards/ahmed-mohamed/avatar.webp" (portrait ~4:5, 400px+). null = initials
   profileImageAlt: null,       // optional; defaults to fullName
 
   // Branding
   brandName: "Kaiyi Motors Egypt",    // shown under the title; falls back to `company`
-  logo: null,                  // "/cards/ahmed-shawky/logo.svg" - square or icon-style works best (shown in a 40px tile)
+  logo: null,                  // "/cards/ahmed-mohamed/logo.svg" - square or icon-style works best (shown in a 40px tile)
   qrLogo: null,                // optional small logo in the QR centre (square, simple). Leave null for the most reliable scan
-  coverImage: null,            // optional faded backdrop, e.g. "/cards/ahmed-shawky/cover.webp" (wide, ~1600px)
+  coverImage: null,            // optional faded backdrop, e.g. "/cards/ahmed-mohamed/cover.webp" (wide, ~1600px)
   companyDescription:
     "KAIYI Motors Egypt is the official dealer and representative of KAIYI vehicles in Egypt, providing vehicle sales, after-sales services, maintenance, genuine spare parts, and customer care.  Founded in 2024, the company is a fast-growing automotive organization focused on innovation, operational excellence, and customer satisfaction across its expanding network in Egypt.",
 
