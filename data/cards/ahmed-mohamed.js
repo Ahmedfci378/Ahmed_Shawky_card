@@ -66,7 +66,7 @@ const card = {
 
   // Social
   linkedin: "https://www.linkedin.com/in/ahmed-shawky-helal-43074251",
-  instagram: "https://instagram.com/example",
+  instagram: "https://instagram.com",
   facebook: "https://m.me/ahmed.s.helal",
   youtube: null,
   twitter: null,               // X / Twitter
