@@ -54,7 +54,7 @@ const card = {
   whatsappMessage: "السلام عليكم",
   email: "ckd.mgr@kaiyimotorsegypt.com",
   emailSubject: "استفسار من الكارت الرقمي",   // optional
-  emailBody: "السلام عليكم دكتور، ",            // optional
+  emailBody: "السلام عليكم ",            // optional
   website: "ahmed.helallu@gmail.com",
 
   // Location
