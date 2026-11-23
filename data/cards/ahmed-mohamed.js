@@ -51,7 +51,7 @@ const card = {
   // Contact
   phone: "+201110009148",
   whatsapp: "+201110009148",
-  whatsappMessage: "السلام عليكم دكتور، حابب أحجز موعد",
+  whatsappMessage: "السلام عليكم",
   email: "ckd.mgr@kaiyimotorsegypt.com",
   emailSubject: "استفسار من الكارت الرقمي",   // optional
   emailBody: "السلام عليكم دكتور، ",            // optional
